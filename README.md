@@ -20,5 +20,5 @@ Frontend: HTML, CSS, JavaScrpit
 
 Status 
 
-Em produção
+Em produção mas quase terminando
 
